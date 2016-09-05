@@ -1,0 +1,6 @@
+a.porfolio__link:after {
+  display: none;
+}
+a.portfolio__link:hover:after {
+  display: block;
+}
